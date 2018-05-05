@@ -1,0 +1,181 @@
+body,
+.preloader-wrapper,
+.preloader,
+.site-header,
+.main-nav,
+.main-nav ul,
+.main-nav ul li > ul,
+.main-nav ul li > ul a,
+.cart-btn:hover::after,
+.cart-area,
+.banner-start a,
+.color-scheme-select,
+.color-scheme-select-btn{
+	background-color: #ffffff !important;
+}
+
+.colored-overlay,
+.search-area{
+	background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.dark-section,
+.counter-wrapper > div,
+.site-footer,
+.header-banner,
+.cart-table thead th,
+.blog-detail-author,
+.portfolio-detail-testimonial,
+input:disabled[type="text"],
+input:disabled[type="email"],
+input:disabled[type="number"],
+input:disabled[type="url"],
+input:disabled[type="search"],
+input:disabled[type="tel"],
+input:disabled[type="password"],
+input:disabled[type="date"],
+input:disabled[type="color"],
+textarea:disabled,
+select:disabled{
+	background-color: #f8f8f8 !important;
+}
+
+.separator,
+.progress-bar,
+.about-content::after,
+.portfolio-detail-data > div::after,
+.contact-data-item::after{
+	background-color: #e6e6e6 !important;
+}
+
+.icon-bg-colored,
+.btn,
+.btn-fill,
+.btn-nofill:hover,
+.color-native,
+.menu-btn:hover,
+.search-btn:hover,
+.cart-btn::after,
+.cart-btn:hover,
+.cart-item-img::after,
+.main-nav ul li:hover > a,
+.main-nav > ul > li > a.active-section,
+.page-cover-carousel-left,
+.page-cover-carousel-right,
+.scroll-down,
+.accordion-title.accordion-active a,
+.accordion-title a:hover,
+.accordion-title.accordion-active::after,
+.accordion-title:hover::after,
+.font-awesome-icons > div:hover,
+.font-awesome-icons > div:hover *,
+.et-line-icons > div:hover,
+.et-line-icons > div:hover *,
+.has-icon:hover .icon-bg-change,
+.pricing-content:hover .pricing-price,
+.sidebar-tags a:hover,
+.pricing-price-special,
+.owl-buttons div,
+.product-content .not-available::after,
+.product-detail-color a,
+.product-detail-size a:hover,
+.product-detail-size a.size-selected,
+.flip-clock-wrapper ul li a div div.inn,
+.color-scheme-theme-item.color-scheme-theme-selected,
+.color-scheme-content::after{
+	color: #ffffff !important;
+}
+
+
+.text-darker{
+	color: #333333 !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.text-dark,
+.font-awesome-icons > div > i,
+.et-line-icons > div > span,
+.main-nav ul li a,
+.cart-item-title a,
+.menu-btn,
+.cart-btn,
+.search-btn,
+.accordion-title a,
+.tab-option li a,
+.filter li a,
+.blog-title a,
+.progress-text,
+.footer-nav a,
+.faq-heading-item a,
+.product-detail-info li span,
+.product-detail-tab #product-detail-specification li span,
+.flip-clock-divider .flip-clock-label,
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="password"],
+input[type="date"],
+textarea,
+select{
+	color: #555555 !important;
+}
+
+body,
+p,
+.text-normal,
+.breadcrumb-item a,
+.sidebar-tags a,
+.product-detail-size a,
+.product-detail-info li a{
+	color: #888888 !important;
+}
+
+.cart-btn::after,
+.cart-item-img::after,
+.banner-start a{
+	border-color: #ffffff !important;
+}
+
+.dark-section,
+.brdr-normal,
+.main-nav,
+.main-nav ul li > ul,
+.table-bordered,
+.table-bordered > tbody > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > thead > tr > th,
+.tab-wrapper,
+.accordion,
+.accordion-title,
+.accordion-data,
+.font-awesome-icons > div,
+.et-line-icons > div,
+.faq-heading,
+.color-scheme-select,
+.color-scheme-select-btn,
+.color-scheme-content::after{
+	border-color: #e6e6e6 !important;
+}
+
+.brdr-dark,
+.sidebar-tags a,
+.product-detail-size a,
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="password"],
+input[type="date"],
+input[type="color"],
+textarea,
+select{
+	border-color: rgba(0, 0, 0, 0.15) !important;
+}
